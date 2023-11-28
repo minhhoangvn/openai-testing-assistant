@@ -130,3 +130,7 @@ dist
 .pnp.*
 
 .env
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
